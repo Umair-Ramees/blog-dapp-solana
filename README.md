@@ -1331,8 +1331,8 @@ There is still room for improvements in the Blog Dapp like,
 
 # About Author
 
-This tutorial was created by [Kiran Bhalerao](https://github.com/kiran-bhalerao).
+This tutorial was created by [Nabi](https://github.com/nabi1020-dev).
 
 # References
 
-[https://github.com/kiran-bhalerao/blog-dapp-Solana](https://github.com/kiran-bhalerao/blog-dapp-Solana)
+[https://github.com/nabi1020-dev/blog-dapp-Solana](https://github.com/nabi1020-dev/blog-dapp-Solana)
