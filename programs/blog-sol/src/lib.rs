@@ -1,8 +1,8 @@
 use anchor_lang::prelude::*;
 use anchor_lang::solana_program::entrypoint::ProgramResult;
 use solana_security_txt::security_txt;
-
-security_txt! {
+ 
+security_txt! { 
     name: "Blog Sol",
     project_url: "https://kiran-bhalerao.github.io/blog-dapp-solana/",
     contacts: "link:https://github.com/kiran-bhalerao/blog-dapp-solana",
